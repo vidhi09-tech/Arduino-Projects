@@ -5,6 +5,8 @@ In this project, I am using flame sensor which detects fire and produces noise a
 
 
 YouTube tutorial : https://youtu.be/x9yB4i_s6gA
+
+
 Components used: 
 1. Arduino Uno
 2. RGB LED
@@ -18,6 +20,8 @@ In this project, you learn how to connect Bluetooth with arduino and display it 
 
 
 YouTube tutorial : https://youtu.be/GJ3x3kS954M
+
+
 Components used: 
 1. Arduino UNO
 2. LED (Green , Red)
