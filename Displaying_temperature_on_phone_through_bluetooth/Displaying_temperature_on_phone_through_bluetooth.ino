@@ -34,7 +34,7 @@ void loop()
           Serial.print("Temprature in Centigrade ");
           Serial.print(tempC);
           Serial.println("C");
-          Serial.print("Temprature in Farhanite ");
+          Serial.print("Temprature in Fahrenheit ");
           Serial.print(tempF);
           Serial.println("F");
           delay(dt);
