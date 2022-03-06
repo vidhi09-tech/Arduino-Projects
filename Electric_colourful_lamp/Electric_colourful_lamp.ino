@@ -5,7 +5,7 @@ int green =5;
 int yellow = 6;
 
 
-:
+
 const int SENSOR_PIN = 7; //  sensor's SIGNAL pin 
 
 // Variables will change:
