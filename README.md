@@ -29,3 +29,21 @@ Components used:
 4. HM-10 BLE Module
 5. Jumper wires and resistors
 6. BLE Terminal on playstore
+
+## Electric Touchable Lamp
+In this Video tutorial, you will get a basic knowledge about the colorful lamps. When you touch the base of the lamp it turns its colors to a combination of RGB color. Here the base of lamp is a touch sensor Module. 
+Whenever someone touches the module it will automatically changes the color.
+
+YouTube tutorial : https://youtu.be/f-8Vc_twZ1M
+
+
+Components used:
+1. Arduino Uno
+2. RED LED
+3. BLUE LED
+4. GREEN LED
+5. YELLOW LED
+6. Touch Sensor Module
+7. 220 ohm resistors
+8. Jumper Wires
+9. Breadboard
